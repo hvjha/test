@@ -1,0 +1,12 @@
+{
+  "name": "time_assignment",
+  "version": "1.0.0",
+  "description": "## Extract the latest stories from www.time.com website and display in json format to user",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Harsh",
+  "license": "ISC"
+}
